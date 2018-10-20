@@ -1,0 +1,14 @@
+total 7293
+drwxr-xr-x 1 noble 197609       0 5월   7 08:18 ./
+drwxr-xr-x 1 noble 197609       0 5월   5 07:02 ../
+-rw-r--r-- 1 noble 197609     700 5월   7 08:18 a
+-rw-r--r-- 1 noble 197609       0 5월   7 08:18 b
+-rw-r--r-- 1 noble 197609 1145498 2월  26 14:55 eventlogs.txt
+-rwxr-xr-x 1 noble 197609 2062848 3월  11 18:52 ex1_1.exe*
+-rw-r--r-- 1 noble 197609     155 3월  11 18:51 ex1_1.go
+-rwxr-xr-x 1 noble 197609 2062848 3월  11 19:26 ex1_2.exe*
+-rw-r--r-- 1 noble 197609     190 3월  11 19:26 ex1_2.go
+-rwxr-xr-x 1 noble 197609 2171904 3월  11 19:42 ex1_3.exe*
+-rw-r--r-- 1 noble 197609      75 3월  12 11:23 ex1_3.go
+-rw-r--r-- 1 noble 197609     776 5월   7 08:18 ex1_4.go
+-rw-r--r-- 1 noble 197609       5 3월  11 19:53 test.txt

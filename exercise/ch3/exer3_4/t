@@ -1,0 +1,15 @@
+package main
+
+import (
+	"fmt"	
+)
+
+func main() {
+	s := "/white"
+	var v string
+	for _,i := range s[1:] {
+		v += string(i)
+	}
+	
+	fmt.Printf("%s\n", v)
+}
